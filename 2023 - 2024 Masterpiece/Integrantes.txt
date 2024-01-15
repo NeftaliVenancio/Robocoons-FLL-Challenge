@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Kai
 Camila 02
+=======
+Kai 01
+Camila 
+>>>>>>> 72f3ef4c23d8d3ed5f38503ca8147bcbd7cba7ec
 Scarlett
 José Pabño
+Mauricio
