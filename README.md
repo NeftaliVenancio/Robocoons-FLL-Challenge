@@ -27,7 +27,12 @@ Este proyecto está licenciado bajo [incluir tipo de licencia aquí], lo que sig
 
 Queremos agradecer a todos los que han contribuido a este repositorio, incluyendo:
 
-- [Lista de contribuyentes]
+Mauricio Lascurain Ramirez
+Cuaúhtemoc Fuentes Navarro
+André Martinez Vega
+José Pablo contreras Dominguez
+Scarlett Eliseth Sarabia Barradas
+Camila Navarrete Alarcón 
 
 Tu apoyo y contribuciones hacen posible este proyecto.
 
