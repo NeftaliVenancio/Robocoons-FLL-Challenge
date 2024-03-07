@@ -21,18 +21,23 @@ Estamos abiertos a contribuciones! Si tienes ideas o recursos que crees que podr
 
 ## Licencia
 
-Este proyecto está licenciado bajo [incluir tipo de licencia aquí], lo que significa que puedes usar, modificar y distribuir el contenido siempre y cuando des crédito adecuado y sigas los términos de la licencia.
+Este proyecto está licenciado bajo la Licencia Pública General de GNU (GPL), lo que significa que puedes usar, modificar y distribuir el contenido siempre y cuando des crédito adecuado y sigas los términos de la licencia. Además, cualquier trabajo derivado que distribuyas debe estar bajo la misma licencia GPL.
+
 
 ## Agradecimientos
 
 Queremos agradecer a todos los que han contribuido a este repositorio, incluyendo:
 
-Mauricio Lascurain Ramirez
-Cuaúhtemoc Fuentes Navarro
-André Martinez Vega
-José Pablo contreras Dominguez
-Scarlett Eliseth Sarabia Barradas
-Camila Navarrete Alarcón 
+- Mauricio Lascurain Ramirez
+- Cuaúhtemoc Fuentes Navarro
+- André Martinez Vega
+- José Pablo contreras Dominguez
+- Scarlett Eliseth Sarabia Barradas
+- Camila Navarrete Alarcón 
+
+- Neftali de Jesús Caicero Venancio
+- Rodrigo Kai Cabrera
+- Ivanka Shaitd Benitez Rivera
 
 Tu apoyo y contribuciones hacen posible este proyecto.
 
