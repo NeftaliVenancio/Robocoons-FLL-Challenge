@@ -5,6 +5,7 @@ from pybricks.robotics import DriveBase
 from pybricks.tools import wait, StopWatch
 
 hub = PrimeHub()
+hub.system.set_stop_button(Button.BLUETOOTH)
 
 mi = Motor(Port.A, positive_direction= Direction. COUNTERCLOCKWISE)
 md = Motor(Port.E,positive_direction= Direction. CLOCKWISE)
@@ -29,13 +30,19 @@ print(hub.imu.heading())
 hi.reset_angle(0)
 hd.reset_angle(0)
 
-robot.straight(180)
-robot.turn(90)
-robot.straight(960)
-robot.straight(-75)
-robot.turn(30)
-robot.turn(-45)
-robot.straight(700)
-
+robot.straight(720)
+robot.turn(-46)
+hd.run_angle(100,120)
+robot.straight(80)
+hd.run_angle(100,50)
+robot.straight(110)
+hd.run_angle(100,-50)
+robot.straight(-50)
+hd.run_angle(100,-100)
+robot.straight(-150)
+robot.turn(50)
+robot.settings(straight_speed=370, straight_acceleration= 300, turn_rate= 50, turn_acceleration=100)
+robot.straight(-720)
+#robot.straight(-780)
 
 print(hub.imu.heading())
